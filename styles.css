@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(4, 146, 212);
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.logo {
+  width: 13%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3 {
+  color: white;
+}
+.foot {
+  text-align: left;
+}
